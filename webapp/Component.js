@@ -12,7 +12,8 @@ sap.ui.define([
 			manifest: "json"
 		},
 
-		/**
+
+		/*
 		 * The component is initialized by UI5 automatically during the startup of the app and calls the init method once.
 		 * In this function, the device models are set and the router is initialized.
 		 * @public
@@ -32,7 +33,8 @@ sap.ui.define([
 			this.getRouter().initialize();
 		},
 
-		/**
+        
+		/*
 		 * The component is destroyed by UI5 automatically.
 		 * In this method, the ErrorHandler is destroyed.
 		 * @public

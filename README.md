@@ -15,9 +15,12 @@
 |**UI5 Version**<br>Latest|
 |**Enable Telemetry**<br>True|
 
+
 ## project4
 
 A Fiori application.
+
+
 
 ### Starting the generated app
 
@@ -26,6 +29,7 @@ A Fiori application.
 ```
     npm start
 ```
+
 
 
 #### Pre-requisites:
